@@ -58,7 +58,6 @@ git config --global user.email "your.email@example.com"
 To use Git, you need to understand its three "stages" or "trees."
 
 
-
 1.  **Working Directory:** The actual folder on your computer where your files live. This is where you edit, add, and delete files.
 2.  **Staging Area (or "Index"):** A "waiting room" for your changes. When you're happy with a file's changes, you `git add` it to the Staging Area. This prepares it to be saved.
 3.  **Local Repository (.git folder):** The "history book." When you `git commit`, Git takes everything from the Staging Area and saves it as a permanent snapshot (a **commit**) in the `.git` folder inside your project.
@@ -164,7 +163,20 @@ You are now back on `main` with all the new code, ready to start the process ove
 
 ## 📚 Top Learning Resources
 
-These are the best places to go when you get stuck.
+Here are the best places to go when you get stuck or want to learn more.
+
+### ▶️ Top Video Tutorials (YouTube)
+
+* **For the Absolute Beginner (Full Courses):**
+    * [Git and GitHub for Beginners - Crash Course](http://www.youtube.com/watch?v=RGOj5yH7evk) (by freeCodeCamp) - A 1-hour crash course that covers everything you need to get started.
+    * [Learn Git – Full Course for Beginners](http://www.youtube.com/watch?v=zTjRZNkhiEU) (by freeCodeCamp) - A 3.5-hour deep dive into Git's fundamentals.
+    * [Git Tutorial for Beginners: Learn Git in 1 Hour](http://www.youtube.com/watch?v=8JJ101D3knE) (by Programming with Mosh) - Mosh is a fantastic teacher who explains concepts clearly and concisely.
+
+* **For Going Beyond the Basics (Advanced):**
+    * [Git for Professionals Tutorial](http://www.youtube.com/watch?v=Uszj_k0DGsg) (by freeCodeCamp) - Learn about `rebase`, `cherry-pick`, and other tools professionals use.
+    * [13 Advanced (but useful) Git Techniques and Shortcuts](http://www.youtube.com/watch?v=ecK3EnyGD8o) (by Fireship) - A fast-paced, practical guide to powerful Git features in under 10 minutes.
+
+### 💻 Interactive Guides & Official Docs
 
 * **Interactive Visual Guide:** [Learn Git Branching](https://learngitbranching.js.org/)
     > **Best for:** Visually understanding how branches, commits, and `rebase` work. This is a must-use.
