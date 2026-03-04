@@ -1,21 +1,21 @@
-# 🚀 Welcome to the Git & GitHub Learning Guide!
+#  Welcome to the Git & GitHub Learning Guide!
 
 This repository is a hands-on guide for learning Git and GitHub. It's a place to practice commands and understand the core concepts of version control. This `README.md` file itself is your first lesson!
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 1.  [The "Why": What are Git & GitHub?](#-the-why-what-are-git--github)
-2.  [🚀 Getting Started: Setup](#-getting-started-setup)
-3.  [💡 Core Git Concepts](#-core-git-concepts)
-4.  [🛠️ Essential Git Commands (Cheatsheet)](#️-essential-git-commands-cheatsheet)
-5.  [✨ The GitHub Workflow (Using Git for Projects)](#-the-github-workflow-using-git-for-projects)
-6.  [📚 Top Learning Resources](#-top-learning-resources)
+2.  [ Getting Started: Setup](#-getting-started-setup)
+3.  [ Core Git Concepts](#-core-git-concepts)
+4.  [ Essential Git Commands (Cheatsheet)](#️-essential-git-commands-cheatsheet)
+5.  [ The GitHub Workflow (Using Git for Projects)](#-the-github-workflow-using-git-for-projects)
+6.  [ Top Learning Resources](#-top-learning-resources)
 
 ---
 
-## 🌎 The "Why": What are Git & GitHub?
+##  The "Why": What are Git & GitHub?
 
 * **Git:** A *local* version control system. Think of it as "Track Changes" for your code, but far more powerful. It's a program on your computer that lets you save "snapshots" (called **commits**) of your project. You can move between these snapshots, compare them, and merge them.
 
@@ -28,7 +28,7 @@ This repository is a hands-on guide for learning Git and GitHub. It's a place to
 
 ---
 
-## 🚀 Getting Started: Setup
+##  Getting Started: Setup
 
 Before you do anything, you need to set up Git.
 
@@ -53,7 +53,7 @@ git config --global user.email "your.email@example.com"
 
 ---
 
-## 💡 Core Git Concepts
+##  Core Git Concepts
 
 To use Git, you need to understand its three "stages" or "trees."
 
@@ -69,7 +69,7 @@ To use Git, you need to understand its three "stages" or "trees."
 
 ---
 
-## 🛠️ Essential Git Commands (Cheatsheet)
+##  Essential Git Commands (Cheatsheet)
 
 This is the 80/20 of Git—the commands you will use 90% of the time.
 
@@ -161,11 +161,11 @@ You are now back on `main` with all the new code, ready to start the process ove
 
 ---
 
-## 📚 Top Learning Resources
+##  Top Learning Resources
 
 Here are the best places to go when you get stuck or want to learn more.
 
-### ▶️ Top Video Tutorials (YouTube)
+###  Top Video Tutorials (YouTube)
 
 * **For the Absolute Beginner (Full Courses):**
     * [Git and GitHub for Beginners - Crash Course](http://www.youtube.com/watch?v=RGOj5yH7evk) (by freeCodeCamp) - A 1-hour crash course that covers everything you need to get started.
